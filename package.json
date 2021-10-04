@@ -1,0 +1,28 @@
+{
+  "name": "strapi-plugin-menu-manager",
+  "version": "0.0.0",
+  "description": "Organise your sites menus.",
+  "strapi": {
+    "name": "Menu Manager",
+    "icon": "hamburger",
+    "description": "Organise your sites menu's."
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Kaylex Tech",
+    "email": "admin@kaylex.tech",
+    "url": "https://kaylex.tech"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer",
+      "email": "admin@kaylex.tech",
+      "url": "https://kaylex.tech"
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "All Rights Reserved"
+}

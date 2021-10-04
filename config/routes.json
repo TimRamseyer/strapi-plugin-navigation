@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/",
+      "handler": "menu-manager.index",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
